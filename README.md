@@ -5,7 +5,7 @@ Now we have hey_gpt for zsh.
 
 Make sure you have jq installed.
 
-Make sure you add your open api key as an environment variable $OPENAI_API_KEY
+Make sure you add your open api key as an environment variable $OPENAI_API_KEY="your_api_key"
 
 Set your model to gpt-3.5-turbo or gpt-4 or whatever you want/have access to
 
