@@ -1,6 +1,6 @@
 ***Hey GPT for ZSH*** 
 
-Inspired by [Kade Killary's hey_gpt]https://kadekillary.work/posts/1000x-eng/, which was written for fish.
+Inspired by [Kade Killary's hey_gpt](https://kadekillary.work/posts/1000x-eng/), which was written for fish.
 Now we have hey_gpt for zsh.
 
 Make sure you have jq installed.
